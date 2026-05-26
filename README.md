@@ -1,2 +1,3 @@
-# Maths_analysis
-A platform on sharing my research or exploration on mathematic fields.
+# Mathematical Analysis & Research
+
+Welcome to my central repository for independent mathematical research. 
